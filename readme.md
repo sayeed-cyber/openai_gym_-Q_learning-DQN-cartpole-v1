@@ -82,4 +82,4 @@ Overall, DQN demonstrated superior performance, but its complexity and resource 
 
 
 
-[Click here to watch the video](q_learning.mp4)
+[q_learning video](q_learning.mp4)

@@ -83,4 +83,7 @@ Overall, DQN demonstrated superior performance, but its complexity and resource 
 
 
 [q_learning video](q_learning.mp4)
+
+
+ training code and saved models of dqn
 [code for dq_network](https://github.com/sayeed-cyber/Deep_q_-network_openai_gym)
